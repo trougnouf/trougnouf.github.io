@@ -1,0 +1,79 @@
+one of them is simply called the "ultimate open source multiplatform (although idrgaf about mac) note-app". It's basically a note app and a widget that would be as good as google keep but wouldn't be slow as shit like web apps are. It would synchronize between a computer as a server and whatever else (android, iphone, web-browser, other computers) without having to store your data somewhere else and losing your privacy (that would probably be relatively easy to do with ssh.) It would also allow people who use real computers to manage them like windows (always on top,sandwiched, moved around more easily, open close minimize multiple ones)
+
+
+
+the other one is an im software that creates the concept of multiconversations.
+
+
+so for example you have a conversation with someone about kangourous and it goes like this:
+
+
+l---------------------------------------------------------------l
+|[...]								|
+|Jorge:	did you watch that kangourou documentary last night?	|
+|Bulbasaur: no.							|
+|Jorge: ok cool. so there is this burrito in the prairie and ...|
+|_______________________________________________________________|
+
+
+and suddenly Bulbasaur breaks the conversation, he is going to say something completely irrelevant and the subject will be lost forever.
+What will happen? Will we ever know what happened in the prairie?!
+
+
+
+
+
+----------------------dun dun dun -------------------------------
+
+
+
+
+
+Well yes you just may! If Jorge and Bulbasaur were using multicat, it would go something like this:
+
+
+l---------------------------------------------------------------l
+|[...]								|
+|Jorge:	did you watch that kangourou documentary last night?	|
+|Bulbasaur: no.							|
+|Jorge: ok cool. so there is this burrito in the prairie and ...|
+|---------------------------------------------------------------|
+|Bulbasaur: who are you?					|
+|_______________________________________________________________|
+
+
+What just happened?! Bulbasaur opened a new subconversation tab. Nothing of value is lost! All of the information is still flowing.
+
+
+l---------------------------------------------------------------l
+|[...]								|
+|Jorge:	did you watch that kangourou documentary last night?	|
+|Bulbasaur: no.							|
+|Jorge: ok cool. so there is this burrito in the prairie and ...|
+|Jorge: that thing.						|
+|Bulbasaur: tell me more about that thing.			|
+|---------------------------------------------------------------|
+|Bulbasaur: who are you?					|
+|Jorge: I'm Jorge.						|
+|_______________________________________________________________|
+
+
+Yes. The day is saved.
+
+
+l---------------------------------------------------------------l
+|[...]								|
+|Jorge:	did you watch that kangourou documentary last night?	|
+|Bulbasaur: no.							|
+|Jorge: ok cool. so there is this burrito in the prairie and ...|
+|Jorge: that thing.						|
+|Bulbasaur: tell me more about that thing.			|
+|Jorge: well the large ground squirrel put the chocolate in the |
+|	aluminium and then ...					|
+|---------------------------------------------------------------|
+|Bulbasaur: who are you?					|
+|Jorge: I'm Jorge.						|
+|Bulbasaur: hello Jorge.					|
+|---------------------------------------------------------------|
+|Bulbasaur used Take Down!					|
+|_______________________________________________________________|
